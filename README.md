@@ -12,11 +12,7 @@
 
 | Login Page | Dashboard | Projects |
 |---|---|---|
-screenshots\login.png
-screenshots\dashboard.png
-screenshots\projects.png|
-
-> Add your own screenshots inside a `/screenshots` folder in the root.
+| ![](screenshots/login.png) | ![](screenshots/dashboard.png) | ![](screenshots/projects.png) |
 
 ---
 
