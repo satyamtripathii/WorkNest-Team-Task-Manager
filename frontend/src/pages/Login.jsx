@@ -91,10 +91,7 @@ const Login = () => {
           </button>
         </form>
 
-        <div className="auth-note" style={{ marginTop: 16 }}>
-          <ShieldCheck size={16} />
-          JWT secured workspace with encrypted passwords.
-        </div>
+        
 
         <p className="auth-switch">
           New to WorkNest?{" "}
