@@ -4,7 +4,7 @@
 
 ## 🚀 Live Preview
 
-> worknest-team-task-manager-production-b730.up.railway.app
+> [worknest-team-task-manager-production-b730.up.railway.app](https://worknest-team-task-manager-production-b730.up.railway.app/login)
 
 ---
 

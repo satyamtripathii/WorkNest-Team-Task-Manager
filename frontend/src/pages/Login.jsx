@@ -51,7 +51,7 @@ const Login = () => {
             <ClipboardList size={22} />
           </div>
           <div>
-            <strong>NextFlow</strong>
+            <strong>WorkNest</strong>
             <span>Team Task Manager</span>
           </div>
         </div>
@@ -97,7 +97,7 @@ const Login = () => {
         </div>
 
         <p className="auth-switch">
-          New to workNest?{" "}
+          New to WorkNest?{" "}
           <Link to="/signup">Create a free account</Link>
         </p>
       </section>
