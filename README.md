@@ -4,7 +4,7 @@
 
 ## 🚀 Live Preview
 
-> Coming soon — deployment in progress.
+> worknest-team-task-manager-production-b730.up.railway.app
 
 ---
 

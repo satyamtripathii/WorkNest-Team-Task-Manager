@@ -97,7 +97,7 @@ const Login = () => {
         </div>
 
         <p className="auth-switch">
-          New to TaskFlow?{" "}
+          New to workNest?{" "}
           <Link to="/signup">Create a free account</Link>
         </p>
       </section>
