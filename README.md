@@ -12,9 +12,9 @@
 
 | Login Page | Dashboard | Projects |
 |---|---|---|
-|C:\Users\satya\Downloads\Team-Task-Manager\Team-Task-Manager\screenshots\login.png
-|C:\Users\satya\Downloads\Team-Task-Manager\Team-Task-Manager\screenshots\dashboard.png
-|C:\Users\satya\Downloads\Team-Task-Manager\Team-Task-Manager\screenshots\projects.png|
+screenshots\login.png
+screenshots\dashboard.png
+screenshots\projects.png|
 
 > Add your own screenshots inside a `/screenshots` folder in the root.
 
